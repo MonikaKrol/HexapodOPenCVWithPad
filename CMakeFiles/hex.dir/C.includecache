@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ayane/Pulpit/HexapodPC-robotwalkingwithpad/src/Gamepad/gamepad.c
+math.h
+-
+string.h
+-
+errno.h
+-
+malloc.h
+-
+gamepad.h
+/home/ayane/Pulpit/HexapodPC-robotwalkingwithpad/src/Gamepad/gamepad.h
+windows.h
+/home/ayane/Pulpit/HexapodPC-robotwalkingwithpad/src/Gamepad/windows.h
+xinput.h
+/home/ayane/Pulpit/HexapodPC-robotwalkingwithpad/src/Gamepad/xinput.h
+linux/joystick.h
+-
+stdio.h
+-
+fcntl.h
+-
+unistd.h
+-
+libudev.h
+-
+
+/home/ayane/Pulpit/HexapodPC-robotwalkingwithpad/src/Gamepad/gamepad.h
+

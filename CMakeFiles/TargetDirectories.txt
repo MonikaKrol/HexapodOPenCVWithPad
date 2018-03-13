@@ -1,0 +1,3 @@
+/home/ayane/Pulpit/HexapodPC-robotwalkingwithpad/CMakeFiles/edit_cache.dir
+/home/ayane/Pulpit/HexapodPC-robotwalkingwithpad/CMakeFiles/rebuild_cache.dir
+/home/ayane/Pulpit/HexapodPC-robotwalkingwithpad/CMakeFiles/hex.dir
