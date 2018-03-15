@@ -64,7 +64,7 @@ struct GAMEPAD_STATE {
 };
 
 /* State of the four gamepads */
-static GAMEPAD_STATE STATE[4];
+static GAMEPAD_STATE STATE[1];
 
 /* Note whether a gamepad is currently connected */
 #define FLAG_CONNECTED	(1<<0)

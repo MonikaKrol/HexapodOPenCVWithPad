@@ -1,0 +1,5 @@
+URUCHOMIENIE PROGRAMU "hex" (wklepac w terminalu):
+bash run.sh
+
+PODGLAD PODLACZONYCH JOYSTICKOW:
+jstest-gtk
